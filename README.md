@@ -23,8 +23,3 @@ The repo *.ipynb files contain headers describing the code, followed by the code
 - [Seaborn version: 0.10.1](https://pypi.org/project/seaborn/)
 - [Scikit-Learn version: 0.22.2.post1](https://scikit-learn.org/stable/index.html)
 - [Tensorflow version: 2.2.0](https://www.tensorflow.org)
-
-## Certificate of Completion
-<p align="center"><img src="./images/Tensorflow_2.0_Deep_Learning_and_Artificial_Intelligence_Certificate.jpg"></p>
-
-
